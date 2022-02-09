@@ -1,6 +1,6 @@
 ### Hi there! I'm Chun Deng 👋
 
-#📍 Based in San Francisco, CA
-#😄 Pronouns: she/her/hers
-#👀 interested in full stack software engineering
+📍 Based in San Francisco, CA<br />
+😄 Pronouns: she/her/hers<br />
+👀 interested in full stack software engineering
  
